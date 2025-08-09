@@ -15,11 +15,11 @@ This script automates the process of installing Docker on an Ubuntu-based system
 ### Running the Script
 To execute the script, open a terminal and run:
 ```bash
-bash script.sh
+bash installer.sh
 ```
 You may need to grant execution permission first:
 ```bash
-chmod +x script.sh
+chmod +x installer.sh
 ```
 
 ### Features Explained
